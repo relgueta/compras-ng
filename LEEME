@@ -1,0 +1,1 @@
+Siguiente version del sistema de compras, ahora con caracteristicas mas avanzadas como son configuracion independiente de la base de datos, script de instalacion para la DB que cree las tablas que se necesitan y incorpora seguridad para verificar que no cualquier usuario pueda realizar cambios.
